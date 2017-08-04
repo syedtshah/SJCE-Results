@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="hdpi"
+    format="7"
+    timestamp="7732842619296"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="307" />
+    <task
+        name="instant-run-dex"
+        duration="1177" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="7022459222387" >
+        <artifact
+            location="C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="7213602240239"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\intermediates\builds\debug\7213602240239\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7287370136786"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\intermediates\builds\debug\7287370136786\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7352914458071"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\intermediates\builds\debug\7352914458071\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7418628147539"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\intermediates\builds\debug\7418628147539\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7663046901923"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\intermediates\builds\debug\7663046901923\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7732842619296"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

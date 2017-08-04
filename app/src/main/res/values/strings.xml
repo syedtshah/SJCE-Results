@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ResultsSample</string>
+    <string name="year_1">I Year</string>
+    <string name="year_2">II Year</string>
+    <string name="year_3">III Year</string>
+    <string name="year_4">IV Year</string>
+</resources>

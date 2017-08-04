@@ -1,0 +1,1 @@
+CHANGED,C:\Users\JARVIS\AndroidStudioProjects\ResultsSample\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\sydus\resultssample\MainActivity$Result.class
